@@ -6,3 +6,5 @@ Javascript game based on colors
 - The goal of the game is to pick the matching RGB color given a RGB color code
 - It has 4 difficulty levels - (Easy, Hard, Expert, and God)
 
+
+![alt text](https://github.com/mithil957/ColorGame/blob/master/Screenshot.png)
